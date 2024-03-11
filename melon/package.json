@@ -1,7 +1,8 @@
 {
-  "name": "thetea",
-  "version": "1.1.4",
-    "scripts": {
+  "name": "melon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
